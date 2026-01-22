@@ -1,8 +1,8 @@
 ## Pantalla Home
-![Home](https://github.com/Juanjojps/HelpDesk/tree/main/PantallaPrincipal.png)
+![Home](./Pantalla%20Principal.png)
 
 ## Pantalla Detalle
-![Detalle](Pantalla Detalle.png)
+![Detalle](./Pantalla%20Detalle.png)
 
 ## Pantalla Ajustes
-![Detalle](Pantalla Ajustes.png)
+![Ajustes](./Pantalla%20Ajustes.png)
