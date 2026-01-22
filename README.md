@@ -1,5 +1,5 @@
 ## Pantalla Home
-![Home](Pantalla Principal.png)
+![Home](https://github.com/Juanjojps/HelpDesk/tree/main/Pantalla Principal.png)
 
 ## Pantalla Detalle
 ![Detalle](Pantalla Detalle.png)
