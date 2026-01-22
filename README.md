@@ -1,8 +1,8 @@
 ## Pantalla Home
-![Home](./Pantalla%20Principal.png)
+![Home](./PantallaPrincipal.png)
 
 ## Pantalla Detalle
-![Detalle](./Pantalla%20Detalle.png)
+![Detalle](./PantallaDetalle.png)
 
 ## Pantalla Ajustes
 ![Ajustes](./PantallaAjustes.png)
