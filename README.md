@@ -5,4 +5,4 @@
 ![Detalle](./Pantalla%20Detalle.png)
 
 ## Pantalla Ajustes
-![Ajustes](./Pantalla%20Ajustes.png)
+![Ajustes](https://github.com/Juanjojps/HelpDesk/blob/main/PantallaAjustes.png)
